@@ -1,0 +1,53 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    color: blue;
+    font-size: 500%;
+    text-align: center;
+    padding-top: 25%;
+}
+a{
+    display: block;
+}
+img{
+    height: 20%;
+}
+
+.sumario{
+    
+    position: fixed;
+    bottom: 5%;
+    left: 2%;
+    z-index: 1;
+}
+.hide {
+    display: none; 
+  }
+
+
+.sumario:hover + .hide {
+    display: block;
+    position: fixed;
+    color: red;
+    background-color: honeydew;
+    bottom: 5%;
+    z-index: 1;
+    text-align: center;
+    margin-left: 8.8%;
+    padding: 20 20 20 20;
+
+
+}
+.hide:hover{
+    display: block;
+    position: fixed;
+    color: red;
+    background-color: honeydew;
+    bottom: 5%;
+    z-index: 1;
+    text-align: center;
+    margin-left: 8.8%;
+    padding: 20 20 20 20;
+  
+}
