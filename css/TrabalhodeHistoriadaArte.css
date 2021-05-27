@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(13, 75, 78)
+}
+h1{
+    color: rgb(192, 181, 33);
+    font-size: 500%;
+    text-align: center;
+    padding-top: 25%;
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-size: 200%;
+}
+h3{
+    color: rgb(192, 181, 33);
+    font-size: 200%;
+}
+h4{
+    color: rgb(0, 0, 0);
+    font-size: 100%;
+}
+h5{
+    color: rgb(0, 0, 0);
+    font-size: 100%;
+}
+a{
+    display: block;
+}
+img{
+    height: 40%;
+}
+
+.sumario{
+    
+    position: fixed;
+    bottom: 5%;
+    left: 2%;
+    z-index: 1;
+}
+.hide {
+    display: none; 
+}
+
+.sumario:hover + .hide {
+    display: inline-block;
+    position: fixed;
+    color: rgb(37, 37, 37);
+    font-size: 100%;
+    background-color: honeydew;
+    bottom: 5%;
+    z-index: 1;
+    margin-left: 8.8%;
+    padding: 20 20 20 20;
+
+
+}
+.hide:hover{
+    display: inline-block;
+    position: fixed;
+    color: rgb(37, 37, 37);
+    font-size: 100%;
+    background-color: honeydew;
+    bottom: 5%;
+    z-index: 1;
+    margin-left: 8.8%;
+    padding: 20 20 20 20;
+  
+}
+.Oqueemoderno{
+    margin-left: 10%;
+}
+
+.ImpressionismoI{
+    margin-left: 20%;
+}
+
+.ImpressionismoII{
+    margin-left: 30%;
+}
+
+.Pos-ImpressionismoI{
+    margin-left: 40%;
+}
+
+.Pos-ImpressionismoII{
+    margin-left: 50%;
+}
+
+.IniciodaEsculturaModerna{
+    margin-left: 60%;
+}
+    
+.Simbolismo{
+    margin-left: 20%;
+}
+    
+.ArtNouveau{
+    margin-left: 40%;
+}
+.legenda{
+    font-size: 150%;
+}
