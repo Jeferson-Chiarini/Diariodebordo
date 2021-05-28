@@ -17,17 +17,14 @@ h3{
     font-size: 200%;
     padding-bottom: 4pt;
     padding-top: 4pt;
-    line-height: 5pt;
 }
 h4{
     color: rgb(0, 0, 0);
     font-size: 100%; 
-    line-height: 2pt;
 }
 h5{
     color: rgb(0, 0, 0);
     font-size: 100%;
-    line-height: 2pt;
     padding-bottom: 3%;
 }
 a{
