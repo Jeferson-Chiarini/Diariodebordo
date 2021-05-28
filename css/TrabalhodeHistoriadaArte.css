@@ -6,6 +6,7 @@ h1{
     font-size: 500%;
     text-align: center;
     padding-top: 25%;
+    padding-bottom: 30%;
 }
 h2{
     color: rgb(0, 0, 0);
@@ -14,21 +15,25 @@ h2{
 h3{
     color: rgb(192, 181, 33);
     font-size: 200%;
+    padding-bottom: 4pt;
+    padding-top: 4pt;
+    line-height: 5pt;
 }
 h4{
     color: rgb(0, 0, 0);
-    font-size: 100%;
+    font-size: 100%; 
+    line-height: 2pt;
 }
 h5{
     color: rgb(0, 0, 0);
     font-size: 100%;
+    line-height: 2pt;
+    padding-bottom: 3%;
 }
 a{
     display: block;
 }
-img{
-    height: 40%;
-}
+
 
 .sumario{
     
@@ -49,7 +54,7 @@ img{
     background-color: honeydew;
     bottom: 5%;
     z-index: 1;
-    margin-left: 8.8%;
+    margin-left: 10%;
     padding: 20 20 20 20;
 
 
@@ -62,41 +67,72 @@ img{
     background-color: honeydew;
     bottom: 5%;
     z-index: 1;
-    margin-left: 8.8%;
+    margin-left: 10%;
     padding: 20 20 20 20;
   
 }
+img:hover {
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5);
+}
+.Realismo{
+    margin-left: 30%;
+    padding-top: 100pt;
+    padding-bottom: 100pt;
+}
+
 .Oqueemoderno{
     margin-left: 10%;
+    padding-top: 100pt;
+    padding-bottom: 100pt;
 }
 
 .ImpressionismoI{
     margin-left: 20%;
+    padding-top: 100pt;
+    padding-bottom: 100pt;
 }
 
 .ImpressionismoII{
     margin-left: 30%;
+    padding-top: 100pt;
+    padding-bottom: 100pt;
 }
 
 .Pos-ImpressionismoI{
     margin-left: 40%;
+    padding-top: 100pt;
+    padding-bottom: 100pt;
 }
 
 .Pos-ImpressionismoII{
     margin-left: 50%;
+    padding-top: 100pt;
+    padding-bottom: 100pt;
 }
 
 .IniciodaEsculturaModerna{
     margin-left: 60%;
+    padding-top: 100pt;
+    padding-bottom: 100pt;
 }
     
 .Simbolismo{
     margin-left: 20%;
+    padding-top: 100pt;
+    padding-bottom: 100pt;
 }
     
 .ArtNouveau{
     margin-left: 40%;
+    padding-top: 100pt;
+    padding-bottom: 100pt;
 }
 .legenda{
     font-size: 150%;
+}
+.icone{
+    width: 10%;
+}
+img{
+    height: 40%;
 }
