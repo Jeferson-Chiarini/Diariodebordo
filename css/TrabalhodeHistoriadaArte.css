@@ -71,58 +71,59 @@ img:hover {
     box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5);
 }
 .Introdução{
-    margin-left: 30%;
+    text-align: center;
 }
 .Realismo{
-    margin-left: 30%;
+    text-align: center;
     padding-top: 100pt;
     padding-bottom: 100pt;
+    text-align: center;
 }
 
 .Oqueemoderno{
-    margin-left: 10%;
+    text-align: center;
     padding-top: 100pt;
     padding-bottom: 100pt;
 }
 
 .ImpressionismoI{
-    margin-left: 20%;
+    text-align: center;
     padding-top: 100pt;
     padding-bottom: 100pt;
 }
 
 .ImpressionismoII{
-    margin-left: 30%;
+    text-align: center;
     padding-top: 100pt;
     padding-bottom: 100pt;
 }
 
 .Pos-ImpressionismoI{
-    margin-left: 40%;
+    text-align: center;
     padding-top: 100pt;
     padding-bottom: 100pt;
 }
 
 .Pos-ImpressionismoII{
-    margin-left: 50%;
+    text-align: center;
     padding-top: 100pt;
     padding-bottom: 100pt;
 }
 
 .IniciodaEsculturaModerna{
-    margin-left: 60%;
+    text-align: center;
     padding-top: 100pt;
     padding-bottom: 100pt;
 }
     
 .Simbolismo{
-    margin-left: 20%;
+    text-align: center;
     padding-top: 100pt;
     padding-bottom: 100pt;
 }
     
 .ArtNouveau{
-    margin-left: 40%;
+    text-align: center;
     padding-top: 100pt;
     padding-bottom: 100pt;
 }
